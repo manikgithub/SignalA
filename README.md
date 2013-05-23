@@ -1,0 +1,4 @@
+SignalA
+=======
+
+Android Signalr Client
